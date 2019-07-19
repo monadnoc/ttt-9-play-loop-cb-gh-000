@@ -34,7 +34,7 @@ while turn_num < 9
     else
       turn(board)
     end
-    turn += 1
+    turn_num += 1
   end
 end
 
